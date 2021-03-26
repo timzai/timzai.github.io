@@ -1,0 +1,6 @@
+body {
+  width:1024px;
+}
+.jp-RenderedHTMLCommon p a code {
+    color: var(--jp-content-link-color);
+}
