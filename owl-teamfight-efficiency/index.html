@@ -14364,7 +14364,7 @@ March 26, 2021</p>
   Your browser does not support the video tag.
 </video><div align="center" style="font-style: italic; margin: 10px">Brief excerpt of Diem of the Shanghai Dragons popping off against the Seoul Dynasty from the captured video</div><h3 id="Synchronized-POV-of-all-12-Players">Synchronized POV of all 12 Players<a class="anchor-link" href="#Synchronized-POV-of-all-12-Players">&#182;</a></h3><p>Although this verification was not required, automatically synchronize the videos between all players was done and a sample freeze frame image is provided to demonstrate this.</p>
 <p><img src="./report_assets/12pov.png" width="600"/></p>
-<div align="center" style="font-style: italic; margin: 10px">Synchronized frames between all 12 players</div>
+<div align="center" style="font-style: italic; margin: 10px">Synchronized frames between all 12 players</div><iframe width="560" height="315" src="https://www.youtube.com/embed/bP2h_3AnDis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><div align="center" style="font-style: italic; margin: 10px">And the synchronized video</div>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
@@ -14502,7 +14502,7 @@ March 26, 2021</p>
 <div align="center" style="font-style: italic; margin: 10px">Histograms demonstrating the effect noisy backgrounds on pixel values.</div><p><img src="./report_assets/fail_thresh_hp_fixed.png" style="width:50%" /></p>
 <div align="center" style="font-style: italic; margin: 10px">With dynamic thresholding, digit seperation performed performed much better on this particular video.</div><p>With the improved results, the model was applied to other videos.  Unfortunately, the results were inconsistent still.  The image pre-processing proved too difficult given the variance in the input data.</p>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;Keras Number Classifier</h3>
-<p>Since we were able to have good results from one video, we managed to obtain a large number (50,000+) of frames with their values labeled correctly.  With little to lose, 2 neural network number classifiers, one for health (up to 3 digit number) and another for ultimate charge (up to 2 digit number), were trained to see how they performed.  Although some errors still persisted, the end result was excellent after outlier removal.  Theses models were used in the following analysis.</p>
+<p>Since we were able to have good results from one video, we managed to obtain a large number (50,000+) of samples with their values labeled correctly.  With little to lose, 2 neural network number classifiers, one for health (up to 3 digit number) and another for ultimate charge (up to 2 digit number), were trained to see how they performed, the samples were pre-processed only as grayscale images.  Although some errors still persisted, the end result was excellent after a two-frame confirmation outlier removal was performed.  Theses models were used in the following analysis.</p>
 
 </div>
 </div>
