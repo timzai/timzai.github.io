@@ -2,6 +2,8 @@
 
 ### About Me
 
+---
+
 * Data Champion
 * Critical Thinker
 * Versatile Problem Solver
