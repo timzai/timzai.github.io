@@ -23,7 +23,7 @@ GitHub: https://github.com/timzai/
 
 https://timzai.github.io/owl-teamfight-efficiency/
 
-`computer vision` `OpenCV` `Keras` `PyTesseract` `deep learning` `convolutional neural network` `video sequence analysis` `time-series analysis` `signal processing` `information visualization` `esports` `Overwatch` `Overwatch League`
+`computer vision` `OpenCV` `Keras` `PyTesseract` `deep learning` `convolutional neural networks` `video sequence analysis` `time-series analysis` `signal processing` `information visualization` `esports` `Overwatch` `Overwatch League`
 
 #### Orbital Congestion
 
