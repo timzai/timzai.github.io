@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+code {
+    color: #252525;
+    font-size: 11px;
+    padding: 1px 4px;
+    border-radius: 6px;
+    background-color: #aaa;
+    font-weight: bold;
+    display: inline-block;
+}
