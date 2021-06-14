@@ -19,7 +19,7 @@ GitHub: https://github.com/timzai/
 
 #### Improving Earth-orbiting object state prediction by using big data analysis and machine learning techniques on TLE data
 
-*In progress*
+https://cm-tle-pred.github.io/
 
 Utilizing deep learning, and unsupervised learning on publicly available TLE data of Earth-orbiting objects to deliver superior orbit propagation results compared to the SGP4 standards.
 
