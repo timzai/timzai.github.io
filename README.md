@@ -17,6 +17,17 @@ GitHub: https://github.com/timzai/
 
 ---
 
+#### Creating and Evaluating Successful Cryptocurrency Exchange Strategies
+
+https://mads-swaps.github.io/
+
+A deep dive into several different strategies that can be used to predict buy and sell opportunities for the exchanging of cryptocurrencies.  Utilizes Amazon Web Service serverless architecture patterns to automate and scale the machine learning models in a production environment.  Supports a variety of classifiers and regressors from scikit-learn, ensemble of models, as well as neural networks.
+
+`time-series analysis` `market forecasting` `AWS Serverless Application Model` `CloudFormation` `cryptocurrency` `binance` `statistical arbitrage` `scikit-learn` `ensembles` `random forest` `logistic regression` `GradientBoost` `AdaBoost` `XGBoost` `deep learning` `PyTorch` `neural networks` `ResNet`
+
+
+---
+
 #### Improving Earth-orbiting object state prediction by using big data analysis and machine learning techniques on TLE data
 
 https://cm-tle-pred.github.io/
